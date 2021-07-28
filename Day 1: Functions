@@ -1,6 +1,6 @@
 function factorial(input){
-  let value = 1;
-    for (let i = 2; i <= input;i++){
+  var value = 1;
+    for (var i = 2; i <= input;i++){
         value *= i;
     }
     return value;
