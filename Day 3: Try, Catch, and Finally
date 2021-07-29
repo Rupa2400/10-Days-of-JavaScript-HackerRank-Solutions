@@ -1,0 +1,17 @@
+function reverseString(s) {
+    try {
+    var splitStr = s.split("")
+    var reverseStr = splitStr.reverse()
+    var jointStr = reverseStr.join("")
+}
+
+catch (err) {
+    if (err != undefined) {
+        console.log(err.message)
+        console.log(s)
+    }  
+}
+if (jointStr != undefined){
+    console.log(jointStr)
+}
+}
