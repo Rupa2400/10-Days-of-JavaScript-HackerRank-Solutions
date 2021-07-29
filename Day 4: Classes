@@ -1,0 +1,12 @@
+class Polygon {
+    constructor(value){
+    this.value=value;
+  }  
+  perimeter(){
+    var peri=0;
+    for(var i=0;i<this.value.length;i++){
+        peri=peri + this.value[i];
+    }
+    return peri;
+  } 
+}
