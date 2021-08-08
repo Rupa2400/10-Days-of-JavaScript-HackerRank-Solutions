@@ -2,7 +2,7 @@
 
 10 Days of Javascript
 
-Everyone who has learnt or wants to learn must try out this 10 day challenge on HackerRank
+Everyone who has learnt or wants to learn Javascript must try out this 10 day challenge on HackerRank
 
 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
